@@ -1,0 +1,13 @@
+{
+  "name": "https://github.com/Zhuk314/pets-oop.git",
+  "authors": [
+    {
+      "name": "Yurii Zhuk",
+      "email": "yzhuk@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
